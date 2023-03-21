@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.4f011568.css",
-    "main.js": "/static/js/main.c4ff3c04.js",
+    "main.js": "/static/js/main.fb573598.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Sonu-Gupta-Resume.pdf": "/static/media/Sonu-Gupta-Resume.fd2235647baa4cfa0307.pdf",
     "static/media/IMG_20230126_193303.jpg": "/static/media/IMG_20230126_193303.b518b1dd0da4bdb4a5dd.jpg",
     "index.html": "/index.html",
     "main.4f011568.css.map": "/static/css/main.4f011568.css.map",
-    "main.c4ff3c04.js.map": "/static/js/main.c4ff3c04.js.map",
+    "main.fb573598.js.map": "/static/js/main.fb573598.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f011568.css",
-    "static/js/main.c4ff3c04.js"
+    "static/js/main.fb573598.js"
   ]
 }
